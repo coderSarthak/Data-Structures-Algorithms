@@ -1,5 +1,4 @@
 # Data-Structures-Algorithms
 
-
-   Added QuickSort program  named "Quicksort.cpp" in the repository !
-   
+  Added insertion,quicksort and selection sort programs in c++. hope you'll like it
+  i haven't added comments in the same.
